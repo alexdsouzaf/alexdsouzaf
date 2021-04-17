@@ -1,0 +1,11 @@
+header{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+.navbar-brand{
+	padding-right: 75px;
+	padding-left: 75px; 
+}
+
