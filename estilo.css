@@ -35,23 +35,6 @@ nav{
 
 }
 
-.jogos{
-	text-align: center;
-	background-color: black;
-	color:white;
-	font-weight: bold;
-}
-
-#lol{
-	width: 525px;
-	height: 350px;
-}
-
-#wakfu{
-	width: 200px;
-	height: 350px;
-}
-
 footer{
     position: fixed;
     bottom:0;
