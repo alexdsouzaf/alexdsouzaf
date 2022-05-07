@@ -11,6 +11,6 @@
     </div>
 
     <div>
-      <img src="https://www.codewars.com/users/alexdsouzaf/badges/large">
+      <img height="45em" src="https://www.codewars.com/users/alexdsouzaf/badges/large">
     </div>
 </div>
