@@ -8,26 +8,38 @@
 	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 </head>
 <body>
-	<!--TENTANDO APRENDER HTML SEMANTICO-->
+
 	<header> <!--Titulo da pagina-->
 		<h1>Alexsander Faria</h1>
 		<h3>Portfólio</h3>
-		<h6>Cada section uma stack e talvez dentro delas cada article um projeto</h6>
-		<h6>ou direcionar para outra pagina</h6>
 	</header>
-	<!--CADA SECTION VAI SER UMA STACK-->
 
-	<section>
-		<h4>Mobile</h4>
-		<p>Pojetos desenvolvidos para Android...</p>
-		<br/>
-
-		<div>
-			<h6>Jogo da Velha</h6>
-			<button type="button" class="btn btn-outline-dark"><a href="https://github.com/alexdsouzaf/JogoDaVelha">Github<a></a></button>
-			<button type="button" class="btn btn-outline-success"><a href="for_download/app-release.apk">Download</a></button>
-		</div>
-	</section>
+	<main class="d-flex justify-content-around">
+		<section>
+			<h4>Mobile</h4>
+			<p>Pojetos desenvolvidos para Android...</p>
+			<br/>
+	
+			<div>
+				<h6>Jogo da Velha</h6>
+				<button type="button" class="btn btn-outline-dark"><a href="https://github.com/alexdsouzaf/JogoDaVelha">Github<a></a></button>
+				<button type="button" class="btn btn-outline-success"><a href="for_download/app-release.apk">Download</a></button>
+			</div>
+		</section>
+	
+		<section>
+			<h4>Jogos</h4>
+			<p>Projetos desenvolvidos com Unity</p>
+	
+			<div>
+				<h6>Joguinho de matar fantasminha com luz :D</h6>
+				<br>
+				<h6>Apenas um teste.</h6>
+				<button type="button" class="btn btn-outline-success"><a href="for_download/apk-jogo-do-fantasma.apk">Download</a></button>
+			</div>
+		</section>
+	</main>
+	
 </body>
 
 <footer>
