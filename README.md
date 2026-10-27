@@ -32,7 +32,7 @@
 </p>
 
 ## 📫 Contato
-[LinkedIn]([link](https://www.linkedin.com/in/alexsander-s-faria/)) • [E-mail](mailto:alexdsouzaf@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alexsander-s-faria/) • [E-mail](mailto:alexdsouzaf@gmail.com)
 
  
 <img height="45em" src="https://www.codewars.com/users/alexdsouzaf/badges/large">
