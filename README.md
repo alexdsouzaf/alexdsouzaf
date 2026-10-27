@@ -34,5 +34,7 @@
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/alexsander-s-faria/) • [E-mail](mailto:alexdsouzaf@gmail.com)
 
- 
-<img height="45em" src="https://www.codewars.com/users/alexdsouzaf/badges/large">
+ ## 🥋 Desafios de código
+<a href="https://www.codewars.com/users/alexdsouzaf">
+  <img height="45" src="https://www.codewars.com/users/alexdsouzaf/badges/large" alt="Perfil no Codewars" />
+</a>
