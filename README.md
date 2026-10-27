@@ -1,5 +1,4 @@
 <div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexdsouzaf&layout=compact&langs_count=7&theme=gotham"/>
     <div>      
       <img height="45em" src="https://www.codewars.com/users/alexdsouzaf/badges/large">
       <img height="45em" src="https://img.shields.io/badge/CSharp-20232A?style=for-the-badge&logo=csharp&logoColor=white">
