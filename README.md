@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Alexsander 👋</h1>
 <p align="center">Desenvolvedor Fullstack</p>
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>🎨 Front-end</h3>
@@ -13,32 +13,32 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>🗄️ Banco de dados</h3>
       <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>🛠️ Ferramentas & DevOps</h3>
       <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>💻 IDEs e editores</h3>
       <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio" />
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>🔭 Interesses</h3>
       <img src="https://skillicons.dev/icons?i=godot" />
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>📫 Contato</h3>
       <a href="https://www.linkedin.com/in/alexsander-s-faria/">LinkedIn</a> •
       <a href="mailto:alexdsouzaf@gmail.com">E-mail</a>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3>🥋 Desafios de código</h3>
       <a href="https://www.codewars.com/users/alexdsouzaf">
         <img height="45" src="https://www.codewars.com/users/alexdsouzaf/badges/large" alt="Perfil no Codewars" />
