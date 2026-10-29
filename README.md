@@ -1,29 +1,9 @@
 <h1 align="center">Olá, eu sou Alexsander 👋</h1>
 <p align="center">Desenvolvedor Fullstack</p>
 
-## 🎨 Front-end
+## ⚙️ Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" />
-</p>
-
-## ⚙️ Back-end
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</p>
-
-## 🗄️ Banco de dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
-
-## 🛠️ Ferramentas & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
-</p>
-
-## 💻 IDEs e editores
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,postgres,git,github,postman" />
 </p>
 
 ## 🔭 Interesses
