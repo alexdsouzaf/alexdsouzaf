@@ -3,7 +3,7 @@
 
 ## ⚙️ Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,postgres,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,postgres,mysql,sqlite,docker,git,github,postman" />
 </p>
 
 ## 🔭 Interesses
